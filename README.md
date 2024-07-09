@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning Flutter/Dart
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me IG @7amodialmasodi
+- 📫 How to reach me IG @7amodialmas3odi
 - 😄 Pronouns: the only man in this world
 - ⚡ Fun fact: I hate programming
 
